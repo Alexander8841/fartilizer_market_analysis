@@ -1,0 +1,14 @@
+.vscode/
+.idea/
+
+venv/
+env/
+.env
+.venv/
+
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+catboost_info/nfo/
+
+pyrightconfig.json
