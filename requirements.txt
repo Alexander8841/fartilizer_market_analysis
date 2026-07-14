@@ -1,0 +1,12 @@
+pandas
+numpy
+seaborn
+matplotlib
+catboost
+scikit-learn
+statsmodels
+shap
+pymorphy3
+nltk
+sentence-transformers
+ipykernel

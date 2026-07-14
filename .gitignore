@@ -9,6 +9,6 @@ env/
 *.pyc
 __pycache__/
 .ipynb_checkpoints/
-catboost_info/nfo/
+catboost_info/
 
 pyrightconfig.json
